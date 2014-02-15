@@ -1,0 +1,11 @@
+/* line 1, C:/Users/NACHO/Dropbox/EjerciciosSASS/extend.scss */
+.main, .contenedor {
+  background-color: red;
+  font-size: 22px;
+}
+
+/* line 7, C:/Users/NACHO/Dropbox/EjerciciosSASS/extend.scss */
+.contenedor {
+  color: blue;
+  font-weight: 900;
+}

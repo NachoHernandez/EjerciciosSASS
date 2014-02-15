@@ -1,0 +1,11 @@
+.main {
+	background-color: red;
+	font-size: 22px;
+
+}
+
+.contenedor{
+	color: blue;
+	font-weight: 900;
+	@extend .main;
+}

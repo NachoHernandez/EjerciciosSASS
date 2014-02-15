@@ -1,0 +1,9 @@
+$color-base: red;
+$color-font: black;
+$sizefont: 16px;
+
+body{
+	color: $color-font;
+	background-color: $color-base;
+	font-size: $sizefont;
+}
