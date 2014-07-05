@@ -1,0 +1,12 @@
+@mixin bordes-redondos($radius){
+	-webkit-border-radius: $radius;
+	-moz-border-radius: $radius;
+	-ms-border-radius: $radius;
+	border-radius: $radius;
+}
+
+div{
+	width: 200px;
+	height: 200px;
+	@include bordes-redondos(3px);
+}
